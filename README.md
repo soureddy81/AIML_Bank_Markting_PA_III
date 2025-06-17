@@ -24,7 +24,7 @@ This project aims to predict whether a client will subscribe to a bank long-term
 **Business Problem:** Enterprises promote products through mass campaigns or directed marketing. This project focuses on directed marketing, where a Portuguese bank used its contact center for telemarketing campaigns. The core business question is to improve the efficiency of these campaigns by accurately predicting customer subscription behavior.
 
 **Campaign Flow:**
-  ![Education vs. Deposit](https://github.com/soureddy81/AIML_Bank_Markting_PA_III/blob/main/images/process_flow.png)
+  ![Process Flow ](https://github.com/soureddy81/AIML_Bank_Markting_PA_III/blob/main/images/Process_flow.png)
 
 
 ## 2. Data Understanding
@@ -118,7 +118,7 @@ These plots help to visualize customer demographics (education, marital status, 
 
 *   **Loan vs. Deposit:**
 
-    ![Loan vs. Deposit](https://github.com/soureddy81/AIML_Bank_Markting_PA_III/blob/main/images/loan_vs_deposit.png)
+    ![Loan vs. Deposit](https://github.com/soureddy81/AIML_Bank_Markting_PA_III/blob/main/images/Loan_vs_deposit.png)
 
 *   **Housing Loan:** Among those who subscribed to a deposit, 54.0% had a housing loan, 43.7% did not, and 2.3% were unknown.
 *   **Loan (Personal Loan):** For deposit subscribers, 83.0% did not have a personal loan, 14.7% did, and 2.3% were unknown.
